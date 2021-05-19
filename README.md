@@ -15,4 +15,4 @@ This is my updated mark down
 
 'quoted text'
 
-<i>this is italice?<i>
+<i>this is italics?<i>
