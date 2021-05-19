@@ -16,3 +16,8 @@ This is my updated mark down
 'quoted text'
 
 <i>this is italics?<i>
+
+ | Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
