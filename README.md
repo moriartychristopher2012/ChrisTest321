@@ -12,3 +12,7 @@ This is my updated mark down
 [Stuff](www.stuff.co.nz)
 >command 1
 >>command 2
+
+'quoted text'
+
+<i>this is italice?<i>
